@@ -40,7 +40,7 @@ Resources:
       Tags:
       - Key: Name
         Value: WebServer
-      UserData: ! Base64 |
+      UserData: !Base64 |
         #!/bin/bash -x
         yum update -y
         yum install python3 -y
