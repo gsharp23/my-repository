@@ -1,0 +1,10 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: 
+  CloudFormation template to deply the Kittens Carousel web application 
+  
+  
+Parameters:
+  
+Resources:
+  
+Outputs:
